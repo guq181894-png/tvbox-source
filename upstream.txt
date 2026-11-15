@@ -19,3 +19,9 @@ https://raw.githubusercontent.com/jadehh/TVSpider/main/json/TVBox.json
 
 # jiusanzhou/tvbox 自动生成源（8 个站点 + 解析 + 直播，结构干净）
 https://raw.githubusercontent.com/jiusanzhou/tvbox/main/tvbox.json
+
+王二小：https://d.kstore.dev/download/9280/wex.json
+
+老刘备：https://raw.liucn.cc/box/m.json
+
+4K小盒子：http://xhztv.top/4k.json
